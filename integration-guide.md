@@ -27,7 +27,7 @@ Transactions look like this
   "to": "006FD6A3E7EE4B6F6556502224E6C1FC7232BD449314E7A124"
 }</code></pre>
   
-they are created through the `/create_transaction` endpoint and can be submitted to the `/add_transaction_json` endpoint
+they can be created through the `/create_transaction` endpoint and can be submitted to the `/add_transaction_json` endpoint
 
 **(Note: multiple transactions with the same amount, fee, sender and recipient need to have a different timestamp/nonce or they will be rejected by the node)**
 
