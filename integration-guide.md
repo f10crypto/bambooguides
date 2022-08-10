@@ -33,5 +33,5 @@ they can be created through the `/create_transaction` endpoint and can be submit
 
 
 ## Getting Help
-In case you have any further questions feel free to join our Discord and/or contact me (f10#7898) directly.
+In case you have any further questions feel free to join our [Discord](https://discord.gg/tqnr2HtM9j) and/or contact me (f10#7898) directly.
 
